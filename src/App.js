@@ -17,7 +17,7 @@ class App extends Component {
           <p>Although i'm more comfortable with Vue.js and use it in my day to day tasks, it's important for me to have an understand of entire state of the front-end ecosystem so I can choose the right tool for the job.</p>
           <br></br>
         <Button onClick={this.activateLasers} variant="contained" color="primary">
-        Press Me
+        Click Me
       </Button>
         </header>
       </div>
